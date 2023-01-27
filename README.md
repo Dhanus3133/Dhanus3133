@@ -1,3 +1,7 @@
+## Monkeytype Stats
+[![monkeytype.badge]][monkeytype]
+---
+
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs-blue)
@@ -100,3 +104,6 @@ Shell                    2 repos             █░░░░░░░░░░�
 	<a style="text-decoration:none" href="https://github.com/contact">Contact Support</a>
 </p>
 </p>
+
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D119wpm%26label%3Dmonkeytype%26logoVariant%3Done
+[monkeytype]: https://monkeytype.com/profile/dhanus
