@@ -96,6 +96,8 @@ Shell                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ---
 
+## Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Dhanus007?theme=dark&extension=activity&border=3&radius=30)](https://leetcode.com/Dhanus007)
 
 
 <p align="center">
