@@ -1,5 +1,6 @@
-<p align="center">
-	<!--START_SECTION:waka-->
+## Wakatime Stats
+<!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
@@ -62,6 +63,11 @@ Shell                    2 repos             █░░░░░░░░░░�
 
  Last Updated on 27/01/2023 03:13:14 UTC
 <!--END_SECTION:waka-->
+---
+
+
+
+<p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
 <p align="center"><strong>We didn't receive a proper request from your browser</strong></p>
 <p align="center">Try refreshing the page and contact us if the problem persists.</p>
