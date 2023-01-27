@@ -1,4 +1,6 @@
 <p align="center">
+	<!--START_SECTION:waka-->
+	<!--END_SECTION:waka-->
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
 <p align="center"><strong>We didn't receive a proper request from your browser</strong></p>
 <p align="center">Try refreshing the page and contact us if the problem persists.</p>
