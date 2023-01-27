@@ -1,3 +1,6 @@
+## Discord Presence
+[![Discord Presence](https://lanyard.cnrad.dev/api/534981034400284712)](https://discord.com/users/534981034400284712)
+
 ## Monkeytype Stats
 [![monkeytype.badge]][monkeytype]
 ---
