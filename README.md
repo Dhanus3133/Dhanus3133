@@ -100,15 +100,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Dhanus007?theme=dark&extension=activity&border=3&radius=30)](https://leetcode.com/Dhanus007)
 
 
-<p align="center">
-	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<p align="center"><strong>We didn't receive a proper request from your browser</strong></p>
-<p align="center">Try refreshing the page and contact us if the problem persists.</p>
-<p align="center">
-	<a style="text-decoration:none" href="https://docs.github.com/en/get-started/using-github/supported-browsers">Supported Browsers</a>&nbsp;&nbsp;
-	<a style="text-decoration:none" href="https://github.com/contact">Contact Support</a>
-</p>
-</p>
-
 [monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D122wpm%26label%3Dmonkeytype%26logoVariant%3Done
 [monkeytype]: https://monkeytype.com/profile/dhanus
