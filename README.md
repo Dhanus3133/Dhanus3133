@@ -7,9 +7,9 @@
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -17,7 +17,7 @@
 
 > 📦 283.9 kB Used in GitHub's Storage 
  > 
-> 🏆 61 Contributions in the Year 2023
+> 🏆 62 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -52,17 +52,17 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   18 hrs 11 mins      ███████████████████░░░░░░   76.53 % 
-HTML                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-JavaScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Python                   19 hrs 42 mins      █████████████████░░░░░░░░   67.92 % 
+JavaScript               3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+HTML                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 46 mins      █████████████████████████   100.00 % 
+Neovim                   29 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 01:18:21 UTC
+ Last Updated on 11/03/2023 01:07:13 UTC
 <!--END_SECTION:waka-->
 ---
 
