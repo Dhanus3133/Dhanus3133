@@ -1,8 +1,9 @@
-## Discord Presence
+## Currently what I'm working on!
 [![Discord Presence](https://lanyard.cnrad.dev/api/534981034400284712)](https://discord.com/users/534981034400284712)
 
 ## Monkeytype Stats
 [![monkeytype.badge]][monkeytype]
+
 ---
 
 ## Wakatime Stats
@@ -81,6 +82,14 @@ Go                       1 repo              █░░░░░░░░░░�
  Last Updated on 12/03/2023 01:17:46 UTC
 <!--END_SECTION:waka-->
 ---
+
+### Overall Stats
+
+
+![GitHub Project lines Stats SVG](https://api.githubtrends.io/user/svg/Dhanus3133/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private&theme=dark)
+
+![GitHub Languages Stats SVG](https://api.githubtrends.io/user/svg/Dhanus3133/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)
+
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D122wpm%26label%3Dmonkeytype%26logoVariant%3Done
 [monkeytype]: https://monkeytype.com/profile/dhanus
