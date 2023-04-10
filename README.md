@@ -53,15 +53,13 @@ Sunday                   165 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 min               ████████████████░░░░░░░░░   62.58 % 
-HTML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Python                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2023 01:08:33 UTC
+ Last Updated on 10/04/2023 01:05:54 UTC
 <!--END_SECTION:waka-->
 ---
 
