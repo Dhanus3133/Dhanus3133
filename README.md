@@ -8,7 +8,7 @@
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,13 +53,17 @@ Sunday                   165 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             ███████████░░░░░░░░░░░░░░   45.89 % 
+Lua                      12 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+JavaScript               11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +79,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2023 01:05:54 UTC
+ Last Updated on 11/04/2023 01:06:07 UTC
 <!--END_SECTION:waka-->
 ---
 
