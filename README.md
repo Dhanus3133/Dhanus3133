@@ -87,6 +87,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 ### Overall Stats
 
+<img src="https://moe-counter.glitch.me/get/@Dhanus3133?theme=rule34" alt="Counter" />
 
 ![GitHub Project lines Stats SVG](https://api.githubtrends.io/user/svg/Dhanus3133/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private&theme=dark)
 
