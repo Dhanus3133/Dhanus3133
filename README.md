@@ -1,6 +1,16 @@
 ## Currently what I'm working on!
 [![Discord Presence](https://lanyard.cnrad.dev/api/534981034400284712)](https://discord.com/users/534981034400284712)
 
+---
+
+## :zap: Recent Activity:
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
 ## Monkeytype Stats
 <a href="https://monkeytype.com/profile/dhanus">
   <img src="https://raw.githubusercontent.com/Dhanus3133/Dhanus3133/monkeytype/monkeytype-pb.svg" alt="Monkeytype Profile" />
