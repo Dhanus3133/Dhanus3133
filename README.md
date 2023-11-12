@@ -2,7 +2,9 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/534981034400284712)](https://discord.com/users/534981034400284712)
 
 ## Monkeytype Stats
-[![monkeytype.badge]][monkeytype]
+<a href="https://monkeytype.com/profile/dhanus">
+  <img src="https://raw.githubusercontent.com/Dhanus3133/Dhanus3133/monkeytype/monkeytype-lb.svg" alt="Monkeytype Profile" />
+</a>
 
 ---
 
@@ -49,12 +51,4 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 ### Overall Stats
 
-<img src="https://moe-counter.glitch.me/get/@Dhanus3133?theme=rule34" alt="Counter" />
-
-![GitHub Project lines Stats SVG](https://api.githubtrends.io/user/svg/Dhanus3133/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private&theme=dark)
-
-![GitHub Languages Stats SVG](https://api.githubtrends.io/user/svg/Dhanus3133/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)
-
-
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D126wpm%26label%3Dmonkeytype%26logoVariant%3Done
-[monkeytype]: https://monkeytype.com/profile/dhanus
+<img src="https://moe-counter.glitch.me/get/@Dhanus3133?theme=asoul" alt="Counter" />
