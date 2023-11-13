@@ -5,17 +5,17 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 13th, 2023, 11:48:19 AM
+Last Updated: Monday, November 13th, 2023, 5:57:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+2. ⬆️ Pushed 2 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+5. ⬆️ Pushed 2 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
 6. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
-7. 💬 Commented on [#72](https://github.com/ClaperCo/Claper/pull/72#issuecomment-1807199406) in [ClaperCo/Claper](https://github.com/ClaperCo/Claper)<br>
-8. ⬆️ Pushed 2 commit(s) to [Dhanus3133/Claper](https://github.com/Dhanus3133/Claper)<br>
+7. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
+8. ⬆️ Pushed 1 commit(s) to [Dhanus3133/Dhanus3133](https://github.com/Dhanus3133/Dhanus3133)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
