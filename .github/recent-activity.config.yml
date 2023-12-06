@@ -4,6 +4,8 @@ settings:
   readme_file: "./README.md"
   disabled_events: [create_repo, fork]
   url_text: "{REPO}{ID}"
+  ignored_repos:
+    - Dhanus3133/
   date:
     timezone: "GMT+5:30"
     text: "Last Updated: {DATE}"
