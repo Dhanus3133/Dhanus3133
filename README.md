@@ -5,7 +5,7 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 12th, 2023, 5:57:46 PM
+Last Updated: Tuesday, December 12th, 2023, 11:48:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
@@ -14,8 +14,8 @@ Last Updated: Tuesday, December 12th, 2023, 5:57:46 PM
 4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 6. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
-7. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
-8. ⬆️ Pushed 1 commit(s) to [Dhanus3133/QPGen](https://github.com/Dhanus3133/QPGen)<br>
+7. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
+8. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
