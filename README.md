@@ -5,17 +5,17 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 17th, 2023, 5:54:56 PM
+Last Updated: Sunday, December 17th, 2023, 11:46:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
 2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 6. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 7. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
-8. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
+8. ⬆️ Pushed 1 commit(s) to [Dhanus3133/college-employee](https://github.com/Dhanus3133/college-employee)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
