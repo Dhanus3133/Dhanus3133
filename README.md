@@ -5,17 +5,17 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 31st, 2023, 5:55:01 PM
+Last Updated: Sunday, December 31st, 2023, 11:46:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#848](https://github.com/tailcallhq/tailcall/pull/848#issuecomment-1872815525) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
-2. ⬆️ Pushed 2 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-6. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-7. 💪 Opened PR [#848](https://github.com/tailcallhq/tailcall/pull/848) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
-8. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+1. ⬆️ Pushed 0 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+2. 💬 Commented on [#860](https://github.com/tailcallhq/tailcall/issues/860#issuecomment-1872975240) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
+3. ❌ Closed PR [#4](https://github.com/Dhanus3133/tailcall/pull/4) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+4. ❌ Closed PR [#3](https://github.com/Dhanus3133/tailcall/pull/3) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+5. ❌ Closed PR [#2](https://github.com/Dhanus3133/tailcall/pull/2) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+6. ❌ Closed PR [#1](https://github.com/Dhanus3133/tailcall/pull/1) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+7. 💪 Opened PR [#4](https://github.com/Dhanus3133/tailcall/pull/4) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+8. 💪 Opened PR [#3](https://github.com/Dhanus3133/tailcall/pull/3) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
