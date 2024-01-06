@@ -5,17 +5,17 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 6th, 2024, 5:54:47 PM
+Last Updated: Saturday, January 6th, 2024, 11:46:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 0 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-2. 💪 Opened PR [#3343](https://github.com/qdrant/qdrant/pull/3343) in [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
-3. ✌️ Released [New appimage release](https://github.com/Dhanus3133/qdrant/releases/tag/appimage-final) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+1. ✌️ Released [](https://github.com/Dhanus3133/qdrant/releases/tag/appimagebuildtest) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+3. ✌️ Released [](https://github.com/Dhanus3133/qdrant/releases/tag/appimagetest3) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
 4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-5. ✌️ Released [AppImage release](https://github.com/Dhanus3133/qdrant/releases/tag/appimage) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+5. ✌️ Released [](https://github.com/Dhanus3133/qdrant/releases/tag/appimagetest2) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
 6. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
 7. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-8. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+8. ✌️ Released [](https://github.com/Dhanus3133/qdrant/releases/tag/appimagewithoutlink) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
