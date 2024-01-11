@@ -5,17 +5,17 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 10th, 2024, 11:48:18 PM
+Last Updated: Thursday, January 11th, 2024, 6:35:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [a10](https://github.com/Dhanus3133/qdrant/releases/tag/a10) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-3. ✌️ Released [a9](https://github.com/Dhanus3133/qdrant/releases/tag/a9) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-4. ⬆️ Pushed 2 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-5. ✌️ Released [a8](https://github.com/Dhanus3133/qdrant/releases/tag/a8) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-6. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-7. ✌️ Released [a7](https://github.com/Dhanus3133/qdrant/releases/tag/a7) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-8. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+2. ✌️ Released [a10](https://github.com/Dhanus3133/qdrant/releases/tag/a10) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+4. ✌️ Released [a9](https://github.com/Dhanus3133/qdrant/releases/tag/a9) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+5. ⬆️ Pushed 2 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+6. ✌️ Released [a8](https://github.com/Dhanus3133/qdrant/releases/tag/a8) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+7. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+8. ✌️ Released [a7](https://github.com/Dhanus3133/qdrant/releases/tag/a7) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
