@@ -5,17 +5,17 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 14th, 2024, 11:48:11 AM
+Last Updated: Sunday, January 14th, 2024, 5:55:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [image4](https://github.com/Dhanus3133/qdrant/releases/tag/image4) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-2. ⬆️ Pushed 31 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-4. ✌️ Released [image3](https://github.com/Dhanus3133/qdrant/releases/tag/image3) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-6. ✌️ Released [image2](https://github.com/Dhanus3133/qdrant/releases/tag/image2) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-7. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-8. ✌️ Released [image](https://github.com/Dhanus3133/qdrant/releases/tag/image) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+1. ❌ Closed PR [#6](https://github.com/Dhanus3133/tailcall/pull/6) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+2. ❌ Closed PR [#5](https://github.com/Dhanus3133/tailcall/pull/5) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+6. ✔️ Closed issue [#1](https://github.com/Dhanus3133/tailcall/issues/1) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+7. ⬆️ Pushed 2 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+8. 🎉 Merged PR [#4](https://github.com/Dhanus3133/tailcall/pull/4) in [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
