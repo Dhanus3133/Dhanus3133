@@ -5,17 +5,17 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 15th, 2024, 5:58:09 PM
+Last Updated: Monday, January 15th, 2024, 11:47:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3343](https://github.com/qdrant/qdrant/pull/3343#issuecomment-1892031151) in [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
-2. ✌️ Released [staticdir3](https://github.com/Dhanus3133/qdrant/releases/tag/staticdir3) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-4. ✌️ Released [staticdir2](https://github.com/Dhanus3133/qdrant/releases/tag/staticdir2) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-6. ✌️ Released [staticdir1](https://github.com/Dhanus3133/qdrant/releases/tag/staticdir1) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-7. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-8. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+1. 💬 Commented on [#3343](https://github.com/qdrant/qdrant/pull/3343#discussion_r1452550144) in [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+3. ✌️ Released [latestappimage](https://github.com/Dhanus3133/qdrant/releases/tag/latestappimage) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+5. ✌️ Released [cleanup2](https://github.com/Dhanus3133/qdrant/releases/tag/cleanup2) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+6. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+7. ✌️ Released [cleanup](https://github.com/Dhanus3133/qdrant/releases/tag/cleanup) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+8. 💬 Commented on [#3343](https://github.com/qdrant/qdrant/pull/3343#discussion_r1452445360) in [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
