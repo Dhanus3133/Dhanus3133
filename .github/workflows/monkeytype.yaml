@@ -20,10 +20,10 @@ jobs:
       - name: Download SVG
         run: |
           mkdir public
-          curl -o public/monkeytype.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/magic_girl
-          curl -o public/monkeytype-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/magic_girl?lb=true
-          curl -o public/monkeytype-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/magic_girl?pb=true
-          curl -o public/monkeytype-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/magic_girl?lbpb=true
+          curl -o public/monkeytype.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note
+          curl -o public/monkeytype-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note?lb=true
+          curl -o public/monkeytype-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note?pb=true
+          curl -o public/monkeytype-lbpb.svg https://monkeytype-readme.zeabur.app/generate-svg/dhanus/dark_note?lbpb=true
 
       - name: push monkeytype.svg to the monkeytype branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
