@@ -5,13 +5,13 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 8th, 2024, 6:40:35 AM
+Last Updated: Friday, March 8th, 2024, 5:59:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [CollegeX/analytix](https://github.com/CollegeX/analytix)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+1. 💪 Opened PR [#268](https://github.com/openwisp/openwisp-notifications/pull/268) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. 💬 Commented on [#266](https://github.com/openwisp/openwisp-notifications/pull/266#issuecomment-1985286857) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-4. 💪 Opened PR [#266](https://github.com/openwisp/openwisp-notifications/pull/266) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+4. ⬆️ Pushed 8 commit(s) to [CollegeX/analytix](https://github.com/CollegeX/analytix)<br>
 5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
