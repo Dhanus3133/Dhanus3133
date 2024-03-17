@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 17th, 2024, 6:45:11 AM
+Last Updated: Sunday, March 17th, 2024, 5:58:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+2. ⬆️ Pushed 6 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
 3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-4. ⬆️ Pushed 18 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-5. 💪 Opened PR [#1459](https://github.com/tailcallhq/tailcall/pull/1459) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+5. ⬆️ Pushed 18 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
