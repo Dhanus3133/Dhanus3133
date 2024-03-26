@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 26th, 2024, 6:41:09 AM
+Last Updated: Tuesday, March 26th, 2024, 6:00:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/QPGen](https://github.com/Dhanus3133/QPGen)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+1. 💪 Opened PR [#4190](https://github.com/juspay/hyperswitch/pull/4190) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
+2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/hyperswitch](https://github.com/Dhanus3133/hyperswitch)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/hyperswitch](https://github.com/Dhanus3133/hyperswitch)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/hyperswitch](https://github.com/Dhanus3133/hyperswitch)<br>
+5. ⭐ Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
