@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 27th, 2024, 6:40:59 AM
+Last Updated: Wednesday, March 27th, 2024, 6:00:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4190](https://github.com/juspay/hyperswitch/pull/4190) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/hyperswitch](https://github.com/Dhanus3133/hyperswitch)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/hyperswitch](https://github.com/Dhanus3133/hyperswitch)<br>
+1. 💬 Commented on [#4190](https://github.com/juspay/hyperswitch/pull/4190#issuecomment-2022268262) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
+2. 💬 Commented on [#4190](https://github.com/juspay/hyperswitch/pull/4190#issuecomment-2021815442) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
+3. 💬 Commented on [#4190](https://github.com/juspay/hyperswitch/pull/4190#discussion_r1540379451) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
 4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/hyperswitch](https://github.com/Dhanus3133/hyperswitch)<br>
-5. ⭐ Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
+5. 💪 Opened PR [#4190](https://github.com/juspay/hyperswitch/pull/4190) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
