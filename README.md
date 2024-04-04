@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 3rd, 2024, 6:00:29 PM
+Last Updated: Thursday, April 4th, 2024, 6:43:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [arm64test2](https://github.com/Dhanus3133/qdrant/releases/tag/arm64test2) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
-5. ✌️ Released [arm64test](https://github.com/Dhanus3133/qdrant/releases/tag/arm64test) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/QPGen](https://github.com/Dhanus3133/QPGen)<br>
+2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/QPGen](https://github.com/Dhanus3133/QPGen)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/QPGen](https://github.com/Dhanus3133/QPGen)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/QPGen](https://github.com/Dhanus3133/QPGen)<br>
+5. ✌️ Released [arm64test2](https://github.com/Dhanus3133/qdrant/releases/tag/arm64test2) in [Dhanus3133/qdrant](https://github.com/Dhanus3133/qdrant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
