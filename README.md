@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 4th, 2024, 6:43:54 AM
+Last Updated: Saturday, May 4th, 2024, 5:59:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwrt-openwisp-monitoring](https://github.com/Dhanus3133/openwrt-openwisp-monitoring)<br>
-2. 💬 Commented on [#131](https://github.com/openwisp/openwrt-openwisp-monitoring/pull/131#discussion_r1589511459) in [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
-3. 💬 Commented on [#131](https://github.com/openwisp/openwrt-openwisp-monitoring/pull/131#discussion_r1589509937) in [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
-4. 💬 Commented on [#131](https://github.com/openwisp/openwrt-openwisp-monitoring/pull/131#discussion_r1589508468) in [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
-5. 💪 Opened PR [#131](https://github.com/openwisp/openwrt-openwisp-monitoring/pull/131) in [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
+1. ⬆️ Pushed 0 commit(s) to [Dhanus3133/hyperswitch](https://github.com/Dhanus3133/hyperswitch)<br>
+2. ❌ Closed PR [#4190](https://github.com/juspay/hyperswitch/pull/4190) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwrt-openwisp-monitoring](https://github.com/Dhanus3133/openwrt-openwisp-monitoring)<br>
+4. 💬 Commented on [#131](https://github.com/openwisp/openwrt-openwisp-monitoring/pull/131#discussion_r1589511459) in [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
+5. 💬 Commented on [#131](https://github.com/openwisp/openwrt-openwisp-monitoring/pull/131#discussion_r1589509937) in [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
