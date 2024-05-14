@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 14th, 2024, 6:46:22 AM
+Last Updated: Tuesday, May 14th, 2024, 6:04:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-controller](https://github.com/Dhanus3133/openwisp-controller)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-controller](https://github.com/Dhanus3133/openwisp-controller)<br>
-3. 💬 Commented on [#857](https://github.com/openwisp/openwisp-controller/pull/857#issuecomment-2100916482) in [openwisp/openwisp-controller](https://github.com/openwisp/openwisp-controller)<br>
-4. ⬆️ Pushed 2 commit(s) to [Dhanus3133/openwisp-controller](https://github.com/Dhanus3133/openwisp-controller)<br>
-5. 💬 Commented on [#858](https://github.com/openwisp/openwisp-controller/pull/858#discussion_r1593791549) in [openwisp/openwisp-controller](https://github.com/openwisp/openwisp-controller)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+2. 💪 Opened PR [#272](https://github.com/openwisp/openwisp-notifications/pull/272) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-controller](https://github.com/Dhanus3133/openwisp-controller)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-controller](https://github.com/Dhanus3133/openwisp-controller)<br>
+5. 💬 Commented on [#857](https://github.com/openwisp/openwisp-controller/pull/857#issuecomment-2100916482) in [openwisp/openwisp-controller](https://github.com/openwisp/openwisp-controller)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
