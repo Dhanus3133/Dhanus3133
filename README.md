@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 21st, 2024, 6:46:48 AM
+Last Updated: Tuesday, May 21st, 2024, 6:03:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#275](https://github.com/openwisp/openwisp-notifications/pull/275#discussion_r1606951218) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+2. 💬 Commented on [#275](https://github.com/openwisp/openwisp-notifications/pull/275#discussion_r1606951218) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-4. ⭐ Starred [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
-5. ⭐ Starred [openwisp/openwisp-monitoring](https://github.com/openwisp/openwisp-monitoring)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+5. ⭐ Starred [openwisp/openwrt-openwisp-monitoring](https://github.com/openwisp/openwrt-openwisp-monitoring)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
