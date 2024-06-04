@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 4th, 2024, 6:49:11 AM
+Last Updated: Tuesday, June 4th, 2024, 6:04:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+1. 💪 Opened PR [#276](https://github.com/openwisp/openwisp-notifications/pull/276) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-3. 💬 Commented on [#275](https://github.com/openwisp/openwisp-notifications/pull/275#discussion_r1621244945) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
 4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-5. 💬 Commented on [#275](https://github.com/openwisp/openwisp-notifications/pull/275#issuecomment-2139959578) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+5. 💬 Commented on [#275](https://github.com/openwisp/openwisp-notifications/pull/275#discussion_r1621244945) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
