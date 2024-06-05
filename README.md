@@ -5,7 +5,7 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 4th, 2024, 6:04:27 PM
+Last Updated: Wednesday, June 5th, 2024, 6:48:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#276](https://github.com/openwisp/openwisp-notifications/pull/276) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
