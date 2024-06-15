@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 15th, 2024, 6:49:39 AM
+Last Updated: Saturday, June 15th, 2024, 6:03:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#276](https://github.com/openwisp/openwisp-notifications/pull/276#issuecomment-2161350185) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. ⭐ Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)<br>
-3. 💬 Commented on [#276](https://github.com/openwisp/openwisp-notifications/pull/276#discussion_r1631995527) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+1. ⬆️ Pushed 3 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+2. ⬆️ Pushed 3 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+5. ⬆️ Pushed 3 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
