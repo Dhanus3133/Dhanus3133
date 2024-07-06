@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 6th, 2024, 6:49:02 AM
+Last Updated: Saturday, July 6th, 2024, 6:02:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#110](https://github.com/openwisp/openwisp-notifications/issues/110#issuecomment-2211241230) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. 💪 Opened PR [#296](https://github.com/tailcallhq/graphql-benchmarks/pull/296) in [tailcallhq/graphql-benchmarks](https://github.com/tailcallhq/graphql-benchmarks)<br>
-3. 💪 Opened PR [#290](https://github.com/tailcallhq/graphql-benchmarks/pull/290) in [tailcallhq/graphql-benchmarks](https://github.com/tailcallhq/graphql-benchmarks)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/graphql-benchmarks](https://github.com/Dhanus3133/graphql-benchmarks)<br>
-5. 💬 Commented on [#276](https://github.com/openwisp/openwisp-notifications/pull/276#discussion_r1665137294) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
+4. 💬 Commented on [#110](https://github.com/openwisp/openwisp-notifications/issues/110#issuecomment-2211241230) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+5. 💪 Opened PR [#296](https://github.com/tailcallhq/graphql-benchmarks/pull/296) in [tailcallhq/graphql-benchmarks](https://github.com/tailcallhq/graphql-benchmarks)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
