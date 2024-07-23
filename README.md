@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 23rd, 2024, 6:53:10 AM
+Last Updated: Tuesday, July 23rd, 2024, 6:06:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1685219141) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. ⬆️ Pushed 2 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
-5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. 💪 Opened PR [#596](https://github.com/openwisp/openwisp-monitoring/pull/596) in [openwisp/openwisp-monitoring](https://github.com/openwisp/openwisp-monitoring)<br>
+2. 💪 Opened PR [#218](https://github.com/openwisp/openwisp-network-topology/pull/218) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-firmware-upgrader](https://github.com/openwisp/openwisp-firmware-upgrader)<br>
+4. 💪 Opened PR [#263](https://github.com/openwisp/openwisp-firmware-upgrader/pull/263) in [openwisp/openwisp-firmware-upgrader](https://github.com/openwisp/openwisp-firmware-upgrader)<br>
+5. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1685219141) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
