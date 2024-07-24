@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 23rd, 2024, 6:06:23 PM
+Last Updated: Wednesday, July 24th, 2024, 6:53:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#596](https://github.com/openwisp/openwisp-monitoring/pull/596) in [openwisp/openwisp-monitoring](https://github.com/openwisp/openwisp-monitoring)<br>
-2. 💪 Opened PR [#218](https://github.com/openwisp/openwisp-network-topology/pull/218) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
-3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-firmware-upgrader](https://github.com/openwisp/openwisp-firmware-upgrader)<br>
-4. 💪 Opened PR [#263](https://github.com/openwisp/openwisp-firmware-upgrader/pull/263) in [openwisp/openwisp-firmware-upgrader](https://github.com/openwisp/openwisp-firmware-upgrader)<br>
-5. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1685219141) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. 💬 Commented on [#214](https://github.com/openwisp/openwisp-config/pull/214#discussion_r1688431812) in [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
+2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
+3. 💬 Commented on [#214](https://github.com/openwisp/openwisp-config/pull/214#discussion_r1688416806) in [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
+4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
+5. ⭐ Starred [openwisp/openwisp-wifi-login-pages](https://github.com/openwisp/openwisp-wifi-login-pages)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
