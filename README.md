@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 24th, 2024, 6:05:33 PM
+Last Updated: Thursday, July 25th, 2024, 6:52:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#214](https://github.com/openwisp/openwisp-config/pull/214#discussion_r1688431812) in [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
-2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
-3. 💬 Commented on [#214](https://github.com/openwisp/openwisp-config/pull/214#discussion_r1688416806) in [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
-4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-config](https://github.com/openwisp/openwisp-config)<br>
-5. ⭐ Starred [openwisp/openwisp-wifi-login-pages](https://github.com/openwisp/openwisp-wifi-login-pages)<br>
+1. 💬 Commented on [#276](https://github.com/openwisp/openwisp-notifications/pull/276#discussion_r1689979878) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. 💬 Commented on [#276](https://github.com/openwisp/openwisp-notifications/pull/276#discussion_r1689979761) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. 💬 Commented on [#276](https://github.com/openwisp/openwisp-notifications/pull/276#discussion_r1689979515) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/openwisp-notifications](https://github.com/Dhanus3133/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
