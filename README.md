@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 6th, 2024, 6:53:51 AM
+Last Updated: Tuesday, August 6th, 2024, 6:06:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sentriz/cliphist](https://github.com/sentriz/cliphist)<br>
-2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-5. ⭐ Starred [infinyon/fluvio](https://github.com/infinyon/fluvio)<br>
+1. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1704849582) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1704849554) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1704849518) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+4. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1704849482) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+5. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1704849370) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
