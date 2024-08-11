@@ -19,7 +19,7 @@ Last Updated: Sunday, August 11th, 2024, 6:05:00 PM
 
 ## Monkeytype Stats
 <a href="https://monkeytype.com/profile/dhanus">
-  <img src="https://raw.githubusercontent.com/Dhanus3133/Dhanus3133/monkeytype/monkeytype-lbpb.svg" alt="Monkeytype Profile" />
+  <img src="https://raw.githubusercontent.com/Dhanus3133/Dhanus3133/monkeytype/monkeytype-lb.svg" alt="Monkeytype Profile" />
 </a>
 
 ---
