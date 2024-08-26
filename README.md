@@ -5,12 +5,12 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 25th, 2024, 6:05:03 PM
+Last Updated: Monday, August 26th, 2024, 6:55:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#308](https://github.com/openwisp/openwisp-notifications/pull/308) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. 💪 Opened PR [#307](https://github.com/openwisp/openwisp-notifications/pull/307) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. 💪 Opened PR [#308](https://github.com/openwisp/openwisp-notifications/pull/308) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. 💪 Opened PR [#307](https://github.com/openwisp/openwisp-notifications/pull/307) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
