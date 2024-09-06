@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 5th, 2024, 6:09:19 PM
+Last Updated: Friday, September 6th, 2024, 7:05:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1742498682) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-3. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1742497851) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-4. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1742497727) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. 💬 Commented on [#307](https://github.com/openwisp/openwisp-notifications/pull/307#discussion_r1745963369) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. 💬 Commented on [#307](https://github.com/openwisp/openwisp-notifications/pull/307#discussion_r1745960989) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. 💬 Commented on [#307](https://github.com/openwisp/openwisp-notifications/pull/307#discussion_r1745960563) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+4. 💬 Commented on [#307](https://github.com/openwisp/openwisp-notifications/pull/307#discussion_r1745958775) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+5. 💬 Commented on [#307](https://github.com/openwisp/openwisp-notifications/pull/307#discussion_r1745958703) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
