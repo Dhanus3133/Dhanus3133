@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 20th, 2024, 6:09:32 PM
+Last Updated: Saturday, September 21st, 2024, 7:06:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#87](https://github.com/openwisp/OpenWISP-Website/pull/87) in [openwisp/OpenWISP-Website](https://github.com/openwisp/OpenWISP-Website)<br>
-2. ⬆️ Pushed 8 commit(s) to [Dhanus3133/OpenWISP-Website](https://github.com/Dhanus3133/OpenWISP-Website)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/OpenWISP-Website](https://github.com/Dhanus3133/OpenWISP-Website)<br>
-4. 💬 Commented on [#86](https://github.com/openwisp/OpenWISP-Website/pull/86#discussion_r1766543782) in [openwisp/OpenWISP-Website](https://github.com/openwisp/OpenWISP-Website)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/OpenWISP-Website](https://github.com/Dhanus3133/OpenWISP-Website)<br>
+1. ⬆️ Pushed 3 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. 💪 Opened PR [#87](https://github.com/openwisp/OpenWISP-Website/pull/87) in [openwisp/OpenWISP-Website](https://github.com/openwisp/OpenWISP-Website)<br>
+3. ⬆️ Pushed 8 commit(s) to [Dhanus3133/OpenWISP-Website](https://github.com/Dhanus3133/OpenWISP-Website)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/OpenWISP-Website](https://github.com/Dhanus3133/OpenWISP-Website)<br>
+5. 💬 Commented on [#86](https://github.com/openwisp/OpenWISP-Website/pull/86#discussion_r1766543782) in [openwisp/OpenWISP-Website](https://github.com/openwisp/OpenWISP-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
