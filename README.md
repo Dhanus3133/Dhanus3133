@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 23rd, 2024, 7:10:46 AM
+Last Updated: Wednesday, October 23rd, 2024, 6:11:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3041](https://github.com/tailcallhq/tailcall/pull/3041) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
-2. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
-4. ⭐ Starred [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim)<br>
-5. ⭐ Starred [ClickHouse/clickhouse-rs](https://github.com/ClickHouse/clickhouse-rs)<br>
+1. ⭐ Starred [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim)<br>
+2. 💪 Opened PR [#3041](https://github.com/tailcallhq/tailcall/pull/3041) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
+3. ⭐ Starred [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)<br>
+4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+5. ⭐ Starred [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
