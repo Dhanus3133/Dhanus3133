@@ -26,9 +26,9 @@ Last Updated: Friday, November 8th, 2024, 6:09:53 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -51,17 +51,17 @@ Zsh                      2 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   37 repos            ██████████░░░░░░░░░░░░░░░   41.57 % 
-TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Lua                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Python                   37 repos            ███████████░░░░░░░░░░░░░░   42.05 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Lua                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 07/11/2024 19:18:38 UTC
+ Last Updated on 08/11/2024 19:17:55 UTC
 <!--END_SECTION:waka-->
 ---
 
