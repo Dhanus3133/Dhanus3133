@@ -26,7 +26,7 @@ Last Updated: Wednesday, November 27th, 2024, 6:15:30 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
@@ -61,7 +61,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 19:28:17 UTC
+ Last Updated on 27/11/2024 19:24:48 UTC
 <!--END_SECTION:waka-->
 ---
 
