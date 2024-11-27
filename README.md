@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 26th, 2024, 6:15:00 PM
+Last Updated: Wednesday, November 27th, 2024, 7:18:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/raspap-webgui](https://github.com/Dhanus3133/raspap-webgui)<br>
-2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/raspap-webgui](https://github.com/Dhanus3133/raspap-webgui)<br>
-3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/raspap-webgui](https://github.com/Dhanus3133/raspap-webgui)<br>
-4. ⭐ Starred [questdb/questdb](https://github.com/questdb/questdb)<br>
-5. 💬 Commented on [#491](https://github.com/zio/izumi-reflect/pull/491#issuecomment-2466913684) in [zio/izumi-reflect](https://github.com/zio/izumi-reflect)<br>
+1. ✌️ Released [v2](https://github.com/Dhanus3133/screenpipe/releases/tag/v2) in [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+3. ✌️ Released [v1](https://github.com/Dhanus3133/screenpipe/releases/tag/v1) in [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+4. ✌️ Released [test1](https://github.com/Dhanus3133/screenpipe/releases/tag/test1) in [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
