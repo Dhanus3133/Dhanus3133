@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 12th, 2024, 6:17:05 PM
+Last Updated: Friday, December 13th, 2024, 7:21:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3165](https://github.com/tailcallhq/tailcall/pull/3165) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
-2. ⬆️ Pushed 1015 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
-3. ✌️ Released [v2](https://github.com/Dhanus3133/screenpipe/releases/tag/v2) in [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
-5. ✌️ Released [v1](https://github.com/Dhanus3133/screenpipe/releases/tag/v1) in [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+1. ⭐ Starred [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim)<br>
+2. 💪 Opened PR [#3165](https://github.com/tailcallhq/tailcall/pull/3165) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)<br>
+3. ⬆️ Pushed 1015 commit(s) to [Dhanus3133/tailcall](https://github.com/Dhanus3133/tailcall)<br>
+4. ✌️ Released [v2](https://github.com/Dhanus3133/screenpipe/releases/tag/v2) in [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
