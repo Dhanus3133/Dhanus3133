@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 24th, 2024, 6:10:27 PM
+Last Updated: Wednesday, December 25th, 2024, 7:10:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1033](https://github.com/mediar-ai/screenpipe/pull/1033#issuecomment-2559190570) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
-2. 💬 Commented on [#1033](https://github.com/mediar-ai/screenpipe/pull/1033#issuecomment-2558499625) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
-3. ⬆️ Pushed 5 commit(s) to [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
-4. 💬 Commented on [#1033](https://github.com/mediar-ai/screenpipe/pull/1033#issuecomment-2558448100) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
-5. ⬆️ Pushed 1 commit(s) to [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+2. 💬 Commented on [#1033](https://github.com/mediar-ai/screenpipe/pull/1033#issuecomment-2559190570) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
+3. 💬 Commented on [#1033](https://github.com/mediar-ai/screenpipe/pull/1033#issuecomment-2558499625) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
+4. ⬆️ Pushed 5 commit(s) to [Dhanus3133/screenpipe](https://github.com/Dhanus3133/screenpipe)<br>
+5. 💬 Commented on [#1033](https://github.com/mediar-ai/screenpipe/pull/1033#issuecomment-2558448100) in [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
