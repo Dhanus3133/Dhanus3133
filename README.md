@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 13th, 2025, 6:13:20 PM
+Last Updated: Tuesday, January 14th, 2025, 7:07:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
-2. ⭐ Starred [FiloSottile/age](https://github.com/FiloSottile/age)<br>
-3. ⭐ Starred [yuankunzhang/charming](https://github.com/yuankunzhang/charming)<br>
-4. ⭐ Starred [yuankunzhang/charming](https://github.com/yuankunzhang/charming)<br>
-5. ⭐ Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br>
+1. ⭐ Starred [plotly/plotly.rs](https://github.com/plotly/plotly.rs)<br>
+2. ⭐ Starred [tarkah/tickrs](https://github.com/tarkah/tickrs)<br>
+3. ⬆️ Pushed 1 commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+4. ⭐ Starred [FiloSottile/age](https://github.com/FiloSottile/age)<br>
+5. ⭐ Starred [yuankunzhang/charming](https://github.com/yuankunzhang/charming)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
