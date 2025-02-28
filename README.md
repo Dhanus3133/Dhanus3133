@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 28th, 2025, 7:14:11 AM
+Last Updated: Friday, February 28th, 2025, 6:11:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1970326619) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1970318527) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-3. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1970316903) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-4. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1970316500) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1974198535) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. 💪 Opened PR [#337](https://github.com/openwisp/openwisp-notifications/pull/337) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+5. 💬 Commented on [#290](https://github.com/openwisp/openwisp-notifications/pull/290#discussion_r1970326619) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
