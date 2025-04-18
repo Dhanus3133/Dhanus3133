@@ -26,27 +26,9 @@ Last Updated: Friday, April 18th, 2025, 6:14:24 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C650%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C657%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Rust                     17 hrs 33 mins      ███████████████░░░░░░░░░░   59.37 % 
-Other                    8 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-Lua                      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Ruby                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-
-🔥 Editors: 
-Neovim                   21 hrs 37 mins      ██████████████████░░░░░░░   73.11 % 
-fish                     7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Zsh                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -61,7 +43,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2025 18:57:59 UTC
+ Last Updated on 18/04/2025 18:56:16 UTC
 <!--END_SECTION:waka-->
 ---
 
