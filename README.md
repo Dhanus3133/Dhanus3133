@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 21st, 2025, 7:26:53 AM
+Last Updated: Monday, April 21st, 2025, 6:15:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs)<br>
-2. ⭐ Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)<br>
-3. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
-4. ⭐ Starred [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)<br>
-5. ⭐ Starred [antiwork/gumroad](https://github.com/antiwork/gumroad)<br>
+1. ⭐ Starred [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)<br>
+2. ⭐ Starred [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs)<br>
+3. ⭐ Starred [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx)<br>
+4. ⭐ Starred [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs)<br>
+5. ⭐ Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
