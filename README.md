@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 26th, 2025, 7:19:13 AM
+Last Updated: Saturday, April 26th, 2025, 6:11:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)<br>
-2. ⭐ Starred [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs)<br>
-3. ⭐ Starred [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx)<br>
-4. ⭐ Starred [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs)<br>
-5. ⭐ Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)<br>
+1. ⭐ Starred [algora-io/algora](https://github.com/algora-io/algora)<br>
+2. ⭐ Starred [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)<br>
+3. ⭐ Starred [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs)<br>
+4. ⭐ Starred [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx)<br>
+5. ⭐ Starred [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
