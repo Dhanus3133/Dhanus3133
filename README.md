@@ -5,14 +5,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 27th, 2025, 7:28:38 AM
+Last Updated: Sunday, April 27th, 2025, 6:11:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)<br>
-2. ⭐ Starred [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)<br>
-3. ⭐ Starred [algora-io/algora](https://github.com/algora-io/algora)<br>
-4. ⭐ Starred [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)<br>
-5. ⭐ Starred [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs)<br>
+1. ⭐ Starred [tokio-rs/prost](https://github.com/tokio-rs/prost)<br>
+2. ⭐ Starred [tokio-rs/prost](https://github.com/tokio-rs/prost)<br>
+3. ⭐ Starred [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)<br>
+4. ⭐ Starred [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)<br>
+5. ⭐ Starred [algora-io/algora](https://github.com/algora-io/algora)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
