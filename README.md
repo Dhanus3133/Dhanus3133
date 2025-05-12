@@ -28,7 +28,7 @@ Last Updated: Monday, May 12th, 2025, 6:20:34 PM
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C696%20hrs%2029%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,7 +60,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2025 18:55:50 UTC
+ Last Updated on 12/05/2025 19:01:38 UTC
 <!--END_SECTION:waka-->
 ---
 
