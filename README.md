@@ -5,14 +5,13 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 27th, 2025, 7:26:12 AM
+Last Updated: Tuesday, May 27th, 2025, 6:21:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [cot-rs/cot](https://github.com/cot-rs/cot)<br>
 2. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
 3. ⭐ Starred [tokio-rs/prost](https://github.com/tokio-rs/prost)<br>
 4. ⭐ Starred [tokio-rs/prost](https://github.com/tokio-rs/prost)<br>
-5. ⭐ Starred [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
