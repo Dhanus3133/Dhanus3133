@@ -5,11 +5,10 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 30th, 2025, 7:25:54 AM
+Last Updated: Saturday, May 31st, 2025, 7:25:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [cot-rs/cot](https://github.com/cot-rs/cot)<br>
-2. ⭐ Starred [apache/kafka](https://github.com/apache/kafka)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
