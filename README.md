@@ -1,8 +1,3 @@
-## Currently what I'm working on!
-[![Discord Presence](https://lanyard.cnrad.dev/api/534981034400284712)](https://discord.com/users/534981034400284712)
-
----
-
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, June 19th, 2025, 7:31:09 AM
