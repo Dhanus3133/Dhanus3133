@@ -21,6 +21,8 @@ Last Updated: Wednesday, July 2nd, 2025, 6:21:28 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C775%20hrs%201%20min-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -53,7 +55,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 19:00:33 UTC
+ Last Updated on 02/07/2025 19:01:24 UTC
 <!--END_SECTION:waka-->
 ---
 
