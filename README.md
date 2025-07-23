@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 23rd, 2025, 7:39:59 AM
+Last Updated: Wednesday, July 23rd, 2025, 6:25:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2217349845) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
-2. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2217349717) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
-3. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2217342438) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
-4. ⬆️ Pushed 1 commit(s) to [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
-5. ⬆️ Pushed 1 commit(s) to [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
+1. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2223388402) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
+2. ❗️ Opened issue [#530](https://github.com/openwisp/ansible-openwisp2/issues/530) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
+3. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2217349845) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
+4. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2217349717) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
+5. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2217342438) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
