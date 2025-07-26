@@ -21,9 +21,27 @@ Last Updated: Saturday, July 26th, 2025, 6:19:47 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C870%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C874%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+Python                   7 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+sh                       3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+JavaScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+reStructuredText         1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+
+🔥 Editors: 
+Neovim                   18 hrs 39 mins      ██████████████████░░░░░░░   70.38 % 
+fish                     7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -38,7 +56,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 19:03:34 UTC
+ Last Updated on 26/07/2025 19:01:28 UTC
 <!--END_SECTION:waka-->
 ---
 
