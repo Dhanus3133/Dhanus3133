@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 27th, 2025, 6:21:07 PM
+Last Updated: Monday, July 28th, 2025, 7:51:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#257](https://github.com/openwisp/openwisp-network-topology/pull/257#issuecomment-3114349367) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
-2. 💬 Commented on [#257](https://github.com/openwisp/openwisp-network-topology/pull/257#discussion_r2229154185) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
-3. 💪 Opened PR [#257](https://github.com/openwisp/openwisp-network-topology/pull/257) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
-4. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2223388402) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
-5. ❗️ Opened issue [#530](https://github.com/openwisp/ansible-openwisp2/issues/530) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
+1. ❗️ Opened issue [#496](https://github.com/openwisp/openwisp-utils/issues/496) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+2. 💬 Commented on [#257](https://github.com/openwisp/openwisp-network-topology/pull/257#issuecomment-3114349367) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+3. 💬 Commented on [#257](https://github.com/openwisp/openwisp-network-topology/pull/257#discussion_r2229154185) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+4. 💪 Opened PR [#257](https://github.com/openwisp/openwisp-network-topology/pull/257) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+5. 💬 Commented on [#529](https://github.com/openwisp/ansible-openwisp2/pull/529#discussion_r2223388402) in [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
