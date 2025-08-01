@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 31st, 2025, 6:25:09 PM
+Last Updated: Friday, August 1st, 2025, 7:58:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#496](https://github.com/openwisp/openwisp-utils/issues/496#issuecomment-3132726604) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-3. 💪 Opened PR [#497](https://github.com/openwisp/openwisp-utils/pull/497) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-5. ❗️ Opened issue [#496](https://github.com/openwisp/openwisp-utils/issues/496) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+1. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+2. 💬 Commented on [#496](https://github.com/openwisp/openwisp-utils/issues/496#issuecomment-3132726604) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+4. 💪 Opened PR [#497](https://github.com/openwisp/openwisp-utils/pull/497) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
