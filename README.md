@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 3rd, 2025, 6:23:27 PM
+Last Updated: Monday, August 4th, 2025, 7:56:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#496](https://github.com/openwisp/openwisp-utils/issues/496#issuecomment-3145007853) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
-3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
-4. 💬 Commented on [#496](https://github.com/openwisp/openwisp-utils/issues/496#issuecomment-3132726604) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+1. 💬 Commented on [#257](https://github.com/openwisp/openwisp-network-topology/pull/257#issuecomment-3148592138) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+2. ⬆️ Pushed 2 commit(s) to [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+3. 💬 Commented on [#496](https://github.com/openwisp/openwisp-utils/issues/496#issuecomment-3145007853) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
