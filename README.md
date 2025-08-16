@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 15th, 2025, 6:20:17 PM
+Last Updated: Saturday, August 16th, 2025, 7:27:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#24](https://github.com/Dhanus3133/openwisp-utils/pull/24) in [Dhanus3133/openwisp-utils](https://github.com/Dhanus3133/openwisp-utils)<br>
-2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-3. 💬 Commented on [#497](https://github.com/openwisp/openwisp-utils/pull/497#discussion_r2273871827) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-4. 💬 Commented on [#497](https://github.com/openwisp/openwisp-utils/pull/497#discussion_r2273869456) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-5. 💬 Commented on [#497](https://github.com/openwisp/openwisp-utils/pull/497#discussion_r2273863353) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+1. ✌️ Released [25.0.0 [2025-08-15]](https://github.com/Dhanus3133/ansible-openwisp2/releases/tag/25.0.0) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
+2. 💪 Opened PR [#7](https://github.com/Dhanus3133/ansible-openwisp2/pull/7) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
+3. ⬆️ Pushed 2 commit(s) to [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
+4. 🎉 Merged PR [#6](https://github.com/Dhanus3133/ansible-openwisp2/pull/6) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
+5. 💪 Opened PR [#6](https://github.com/Dhanus3133/ansible-openwisp2/pull/6) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
