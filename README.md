@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 16th, 2025, 7:27:38 AM
+Last Updated: Saturday, August 16th, 2025, 6:17:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [25.0.0 [2025-08-15]](https://github.com/Dhanus3133/ansible-openwisp2/releases/tag/25.0.0) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
-2. 💪 Opened PR [#7](https://github.com/Dhanus3133/ansible-openwisp2/pull/7) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
-3. ⬆️ Pushed 2 commit(s) to [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
-4. 🎉 Merged PR [#6](https://github.com/Dhanus3133/ansible-openwisp2/pull/6) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
-5. 💪 Opened PR [#6](https://github.com/Dhanus3133/ansible-openwisp2/pull/6) in [Dhanus3133/ansible-openwisp2](https://github.com/Dhanus3133/ansible-openwisp2)<br>
+1. ✌️ Released [1.1.2 [2025-08-16]](https://github.com/Dhanus3133/openwisp-radius/releases/tag/1.1.2) in [Dhanus3133/openwisp-radius](https://github.com/Dhanus3133/openwisp-radius)<br>
+2. 💪 Opened PR [#4](https://github.com/Dhanus3133/openwisp-radius/pull/4) in [Dhanus3133/openwisp-radius](https://github.com/Dhanus3133/openwisp-radius)<br>
+3. ⬆️ Pushed 2 commit(s) to [Dhanus3133/openwisp-radius](https://github.com/Dhanus3133/openwisp-radius)<br>
+4. 🎉 Merged PR [#3](https://github.com/Dhanus3133/openwisp-radius/pull/3) in [Dhanus3133/openwisp-radius](https://github.com/Dhanus3133/openwisp-radius)<br>
+5. 💪 Opened PR [#3](https://github.com/Dhanus3133/openwisp-radius/pull/3) in [Dhanus3133/openwisp-radius](https://github.com/Dhanus3133/openwisp-radius)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
