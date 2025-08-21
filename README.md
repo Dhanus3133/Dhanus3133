@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 21st, 2025, 7:23:32 AM
+Last Updated: Thursday, August 21st, 2025, 6:20:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-2. 💬 Commented on [#257](https://github.com/openwisp/openwisp-network-topology/pull/257#discussion_r2289138161) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
-3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
-4. 💪 Opened PR [#230](https://github.com/openwisp/openwisp-docs/pull/230) in [openwisp/openwisp-docs](https://github.com/openwisp/openwisp-docs)<br>
-5. 💪 Opened PR [#505](https://github.com/openwisp/openwisp-utils/pull/505) in [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+1. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)<br>
+2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+3. 💬 Commented on [#257](https://github.com/openwisp/openwisp-network-topology/pull/257#discussion_r2289138161) in [openwisp/openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology)<br>
+4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-utils](https://github.com/openwisp/openwisp-utils)<br>
+5. 💪 Opened PR [#230](https://github.com/openwisp/openwisp-docs/pull/230) in [openwisp/openwisp-docs](https://github.com/openwisp/openwisp-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
