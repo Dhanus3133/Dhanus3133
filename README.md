@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 2nd, 2025, 6:20:03 PM
+Last Updated: Wednesday, September 3rd, 2025, 7:14:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 38 commit(s) to [Dhanus3133/comp](https://github.com/Dhanus3133/comp)<br>
-2. 💪 Opened PR [#1451](https://github.com/trycompai/comp/pull/1451) in [trycompai/comp](https://github.com/trycompai/comp)<br>
-3. 💪 Opened PR [#637](https://github.com/openwisp/openwisp-radius/pull/637) in [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
-4. 💬 Commented on [#915](https://github.com/openwisp/openwisp-wifi-login-pages/pull/915#discussion_r2312037202) in [openwisp/openwisp-wifi-login-pages](https://github.com/openwisp/openwisp-wifi-login-pages)<br>
-5. 💬 Commented on [#915](https://github.com/openwisp/openwisp-wifi-login-pages/pull/915#discussion_r2312037192) in [openwisp/openwisp-wifi-login-pages](https://github.com/openwisp/openwisp-wifi-login-pages)<br>
+1. 💬 Commented on [#1451](https://github.com/trycompai/comp/pull/1451#issuecomment-3246745694) in [trycompai/comp](https://github.com/trycompai/comp)<br>
+2. ⬆️ Pushed 1 commit(s) to [Dhanus3133/comp](https://github.com/Dhanus3133/comp)<br>
+3. 💬 Commented on [#637](https://github.com/openwisp/openwisp-radius/pull/637#discussion_r2316878982) in [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+4. 💬 Commented on [#637](https://github.com/openwisp/openwisp-radius/pull/637#discussion_r2316866590) in [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
