@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 9th, 2025, 7:19:32 AM
+Last Updated: Tuesday, September 9th, 2025, 6:20:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
-2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
-3. 💬 Commented on [#6714](https://github.com/polarsource/polar/pull/6714#discussion_r2329900468) in [polarsource/polar](https://github.com/polarsource/polar)<br>
-4. ⬆️ Pushed 1 commit(s) to [Dhanus3133/polar](https://github.com/Dhanus3133/polar)<br>
-5. 💪 Opened PR [#646](https://github.com/openwisp/openwisp-radius/pull/646) in [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+1. 💬 Commented on [#1451](https://github.com/trycompai/comp/pull/1451#issuecomment-3270325420) in [trycompai/comp](https://github.com/trycompai/comp)<br>
+2. 💬 Commented on [#1451](https://github.com/trycompai/comp/pull/1451#issuecomment-3270303994) in [trycompai/comp](https://github.com/trycompai/comp)<br>
+3. ⬆️ Pushed 3 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+5. 💬 Commented on [#6714](https://github.com/polarsource/polar/pull/6714#discussion_r2329900468) in [polarsource/polar](https://github.com/polarsource/polar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
