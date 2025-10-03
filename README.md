@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 3rd, 2025, 7:15:54 AM
+Last Updated: Friday, October 3rd, 2025, 6:16:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+1. 💬 Commented on [#646](https://github.com/openwisp/openwisp-radius/pull/646#discussion_r2400619569) in [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
 2. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
-3. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+3. ⬆️ Pushed 2 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
 4. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
-5. 💬 Commented on [#646](https://github.com/openwisp/openwisp-radius/pull/646#discussion_r2388807425) in [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
+5. ⬆️ Pushed 1 commit(s) to [openwisp/openwisp-radius](https://github.com/openwisp/openwisp-radius)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
