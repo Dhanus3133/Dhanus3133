@@ -23,7 +23,7 @@ Last Updated: Friday, October 24th, 2025, 6:21:42 PM
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C126%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,13 +31,13 @@ Last Updated: Friday, October 24th, 2025, 6:21:42 PM
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 54 mins        ██████████████░░░░░░░░░░░   54.55 % 
-Other                    1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.25 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   51 mins             ██████████████░░░░░░░░░░░   56.66 % 
+Other                    39 mins             ███████████░░░░░░░░░░░░░░   42.87 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Neovim                   1 hr 55 mins        ██████████████░░░░░░░░░░░   54.75 % 
-fish                     1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.25 % 
+Neovim                   52 mins             ██████████████░░░░░░░░░░░   57.13 % 
+fish                     39 mins             ███████████░░░░░░░░░░░░░░   42.87 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +53,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2025 19:03:02 UTC
+ Last Updated on 24/10/2025 19:01:25 UTC
 <!--END_SECTION:waka-->
 ---
 
