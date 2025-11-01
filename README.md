@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 1st, 2025, 7:28:07 AM
+Last Updated: Saturday, November 1st, 2025, 6:14:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
-2. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
-3. ⭐ Starred [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt)<br>
-4. ⭐ Starred [archestra-ai/archestra](https://github.com/archestra-ai/archestra)<br>
-5. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)<br>
+1. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
+2. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
+3. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
+4. ⭐ Starred [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt)<br>
+5. ⭐ Starred [archestra-ai/archestra](https://github.com/archestra-ai/archestra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
