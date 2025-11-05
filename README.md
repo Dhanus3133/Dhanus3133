@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 4th, 2025, 6:24:10 PM
+Last Updated: Wednesday, November 5th, 2025, 7:26:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)<br>
-2. ⬆️ Pushed undefined commit(s) to [Dhanus3133/zmk-corne-config](https://github.com/Dhanus3133/zmk-corne-config)<br>
-3. ⭐ Starred [getumbrel/umbrel](https://github.com/getumbrel/umbrel)<br>
-4. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
-5. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
+1. ⭐ Starred [nomad/nomad](https://github.com/nomad/nomad)<br>
+2. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)<br>
+3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/zmk-corne-config](https://github.com/Dhanus3133/zmk-corne-config)<br>
+4. ⭐ Starred [getumbrel/umbrel](https://github.com/getumbrel/umbrel)<br>
+5. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
