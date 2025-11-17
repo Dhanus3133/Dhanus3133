@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 16th, 2025, 6:14:58 PM
+Last Updated: Monday, November 17th, 2025, 7:28:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)<br>
-2. ⭐ Starred [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim)<br>
-3. ⭐ Starred [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy)<br>
-4. ⭐ Starred [nomad/nomad](https://github.com/nomad/nomad)<br>
-5. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)<br>
+1. ⭐ Starred [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs)<br>
+2. ⭐ Starred [zeromq/pyzmq](https://github.com/zeromq/pyzmq)<br>
+3. ⭐ Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)<br>
+4. ⭐ Starred [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim)<br>
+5. ⭐ Starred [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
