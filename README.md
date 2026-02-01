@@ -16,27 +16,7 @@ Last Updated: Sunday, February 1st, 2026, 6:32:16 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C450%20hrs%2046%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.44%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    32 hrs 3 mins       ███████████████████░░░░░░   75.48 % 
-Text                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Python                   1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Diff                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Rust                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-
-🔥 Editors: 
-fish                     28 hrs 44 mins      █████████████████░░░░░░░░   67.66 % 
-Neovim                   13 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Zsh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.45%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -51,7 +31,7 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 19:06:11 UTC
+ Last Updated on 01/02/2026 19:11:29 UTC
 <!--END_SECTION:waka-->
 ---
 
