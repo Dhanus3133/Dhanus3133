@@ -21,9 +21,9 @@ Last Updated: Friday, March 20th, 2026, 6:42:15 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C492%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C494%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.86%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,14 +31,15 @@ Last Updated: Friday, March 20th, 2026, 6:42:15 PM
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 6 mins         ██████████████░░░░░░░░░░░   55.32 % 
-Other                    52 mins             ███████████░░░░░░░░░░░░░░   44.04 % 
-hyprlang                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    1 hr 53 mins        ██████████████░░░░░░░░░░░   55.65 % 
+Markdown                 1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   41.10 % 
+Rust                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Neovim                   1 hr 7 mins         ██████████████░░░░░░░░░░░   55.96 % 
-fish                     52 mins             ███████████░░░░░░░░░░░░░░   44.04 % 
+fish                     1 hr 53 mins        ██████████████░░░░░░░░░░░   55.65 % 
+Neovim                   1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.35 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +55,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2026 19:41:21 UTC
+ Last Updated on 20/03/2026 19:32:14 UTC
 <!--END_SECTION:waka-->
 ---
 
