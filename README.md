@@ -19,9 +19,9 @@ Last Updated: Wednesday, April 1st, 2026, 7:18:58 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C517%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C523%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.03%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,31 +29,32 @@ Last Updated: Wednesday, April 1st, 2026, 7:18:58 PM
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    18 hrs 5 mins       █████████████████░░░░░░░░   67.99 % 
-Markdown                 2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Python                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Text                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Diff                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other                    19 hrs 19 mins      ████████████████░░░░░░░░░   65.96 % 
+Markdown                 3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Python                   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Text                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-fish                     16 hrs 33 mins      ████████████████░░░░░░░░░   62.22 % 
-Neovim                   10 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
+fish                     17 hrs 47 mins      ███████████████░░░░░░░░░░   60.72 % 
+Neovim                   11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.00 % 
+Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            █████████░░░░░░░░░░░░░░░░   37.63 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   36 repos            ██████████░░░░░░░░░░░░░░░   38.30 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 
 
 
- Last Updated on 31/03/2026 19:48:36 UTC
+ Last Updated on 01/04/2026 19:50:00 UTC
 <!--END_SECTION:waka-->
 ---
 
