@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 20th, 2026, 9:01:52 AM
+Last Updated: Monday, April 20th, 2026, 7:26:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jundot/omlx](https://github.com/jundot/omlx)<br>
-2. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
-3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
-4. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-5. ⭐ Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br>
+1. ⭐ Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)<br>
+2. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
+3. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+4. ⭐ Starred [jundot/omlx](https://github.com/jundot/omlx)<br>
+5. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
