@@ -21,9 +21,9 @@ Last Updated: Friday, April 24th, 2026, 7:20:23 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C554%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C556%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.46%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,31 +31,32 @@ Last Updated: Friday, April 24th, 2026, 7:20:23 PM
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 1 min          ████████████████████░░░░░   80.87 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-jsonl                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 55 mins             ████████░░░░░░░░░░░░░░░░░   33.79 % 
+Other                    55 mins             ████████░░░░░░░░░░░░░░░░░   33.55 % 
+JSON                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Lua                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-fish                     1 hr 1 min          ████████████████████░░░░░   80.87 % 
-Neovim                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Neovim                   1 hr 50 mins        █████████████████░░░░░░░░   67.21 % 
+fish                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Unknown Editor           16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            ██████████░░░░░░░░░░░░░░░   38.30 % 
+Python                   35 repos            █████████░░░░░░░░░░░░░░░░   37.23 % 
 TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
 JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 
 
 
- Last Updated on 23/04/2026 20:04:04 UTC
+ Last Updated on 24/04/2026 19:43:21 UTC
 <!--END_SECTION:waka-->
 ---
 
