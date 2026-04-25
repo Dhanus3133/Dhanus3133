@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 25th, 2026, 8:25:59 AM
+Last Updated: Saturday, April 25th, 2026, 6:47:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-2. ⬆️ Pushed undefined commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+1. ⭐ Starred [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)<br>
+2. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
-4. ⭐ Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)<br>
-5. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
+4. ⬆️ Pushed undefined commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+5. ⭐ Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
