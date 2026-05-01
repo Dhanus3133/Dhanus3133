@@ -21,9 +21,9 @@ Last Updated: Friday, May 1st, 2026, 7:10:04 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C564%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C565%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.67%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,15 +31,14 @@ Last Updated: Friday, May 1st, 2026, 7:10:04 PM
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Rust                     3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Other                    3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-JSON                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Rust                     3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Other                    3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.33 % 
+JSON                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 53 mins      ████████████████████████░   97.56 % 
-Unknown Editor           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Neovim                   10 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,7 +54,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 20:10:49 UTC
+ Last Updated on 01/05/2026 20:00:31 UTC
 <!--END_SECTION:waka-->
 ---
 
