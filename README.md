@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 7th, 2026, 7:59:05 PM
+Last Updated: Friday, May 8th, 2026, 9:05:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spinframework/spin](https://github.com/spinframework/spin)<br>
-2. ⬆️ Pushed undefined commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
-3. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
-4. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
-5. ⭐ Starred [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim)<br>
+1. ⭐ Starred [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
+2. ⭐ Starred [spinframework/spin](https://github.com/spinframework/spin)<br>
+3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/nvim](https://github.com/Dhanus3133/nvim)<br>
+4. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
+5. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
