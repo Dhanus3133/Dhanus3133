@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 21st, 2026, 9:45:15 AM
+Last Updated: Thursday, May 21st, 2026, 9:09:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#226](https://github.com/openwisp/django-x509/pull/226#discussion_r3275247078) in [openwisp/django-x509](https://github.com/openwisp/django-x509)<br>
-2. ⭐ Starred [rerun-io/rerun](https://github.com/rerun-io/rerun)<br>
-3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
-4. 💪 Opened PR [#226](undefined) in [openwisp/django-x509](https://github.com/openwisp/django-x509)<br>
-5. 💪 Opened PR [#9297](undefined) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
+1. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+3. 💪 Opened PR [#469](undefined) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+4. 💬 Commented on [#226](https://github.com/openwisp/django-x509/pull/226#discussion_r3275247078) in [openwisp/django-x509](https://github.com/openwisp/django-x509)<br>
+5. ⭐ Starred [rerun-io/rerun](https://github.com/rerun-io/rerun)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
