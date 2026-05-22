@@ -21,9 +21,7 @@ Last Updated: Friday, May 22nd, 2026, 8:19:32 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C584%20hrs%2015%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -54,7 +52,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 20:38:42 UTC
+ Last Updated on 22/05/2026 20:38:48 UTC
 <!--END_SECTION:waka-->
 ---
 
