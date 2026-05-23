@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 22nd, 2026, 8:19:32 PM
+Last Updated: Saturday, May 23rd, 2026, 9:19:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#469](https://github.com/openwisp/openwisp-notifications/pull/469#discussion_r3286134427) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. 💬 Commented on [#469](https://github.com/openwisp/openwisp-notifications/pull/469#discussion_r3286128564) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-3. 💬 Commented on [#469](https://github.com/openwisp/openwisp-notifications/pull/469#discussion_r3286126203) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-4. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-5. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
+1. 💬 Commented on [#9281](https://github.com/opsmill/infrahub/pull/9281#discussion_r3291099779) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
+2. 💬 Commented on [#9281](https://github.com/opsmill/infrahub/pull/9281#discussion_r3291099693) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
+3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
+4. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
+5. 💬 Commented on [#469](https://github.com/openwisp/openwisp-notifications/pull/469#discussion_r3286134427) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
