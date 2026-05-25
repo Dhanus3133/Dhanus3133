@@ -21,9 +21,9 @@ Last Updated: Monday, May 25th, 2026, 8:48:45 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C585%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C590%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.02%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,14 +31,15 @@ Last Updated: Monday, May 25th, 2026, 8:48:45 PM
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 43 mins       ██████████████████░░░░░░░   73.35 % 
-YAML                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.97 % 
+Markdown                 2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+YAML                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+TeX                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 48 mins       █████████████████████████   100.00 % 
+Neovim                   9 hrs 16 mins       ████████████████████░░░░░   81.91 % 
+Unknown Editor           2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +55,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 20:02:09 UTC
+ Last Updated on 25/05/2026 20:26:01 UTC
 <!--END_SECTION:waka-->
 ---
 
