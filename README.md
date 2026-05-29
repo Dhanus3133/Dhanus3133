@@ -1,11 +1,11 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 28th, 2026, 9:42:08 PM
+Last Updated: Friday, May 29th, 2026, 9:40:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
-2. 💪 Opened PR [#9370](undefined) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
-3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
+1. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+2. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
+3. 💪 Opened PR [#9370](undefined) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
 4. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
 5. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
 <!--RECENT_ACTIVITY:end-->
