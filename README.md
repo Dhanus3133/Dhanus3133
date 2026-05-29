@@ -21,7 +21,27 @@ Last Updated: Friday, May 29th, 2026, 9:24:13 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.09%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C598%20hrs%2026%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.13%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
+Python                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+TeX                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+
+🔥 Editors: 
+Neovim                   7 hrs 5 mins        █████████████░░░░░░░░░░░░   52.94 % 
+Claude Code              6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.38 % 
+fish                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -36,7 +56,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 21:13:08 UTC
+ Last Updated on 29/05/2026 21:14:52 UTC
 <!--END_SECTION:waka-->
 ---
 
