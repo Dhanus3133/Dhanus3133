@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 5th, 2026, 9:47:36 AM
+Last Updated: Friday, June 5th, 2026, 8:45:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#469](https://github.com/openwisp/openwisp-notifications/pull/469#issuecomment-4605001598) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-2. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
+2. 💬 Commented on [#469](https://github.com/openwisp/openwisp-notifications/pull/469#issuecomment-4605001598) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
 3. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-4. 💪 Opened PR [#9432](undefined) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
-5. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
+4. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+5. 💪 Opened PR [#9432](undefined) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
