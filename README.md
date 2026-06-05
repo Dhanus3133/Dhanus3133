@@ -23,24 +23,7 @@ Last Updated: Friday, June 5th, 2026, 8:45:50 PM
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C606%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.36%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 4 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
-Python                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-TypeScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-
-🔥 Editors: 
-Neovim                   5 hrs 39 mins       ██████████████░░░░░░░░░░░   58.00 % 
-Claude Code              4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   42.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.37%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -55,7 +38,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2026 20:49:02 UTC
+ Last Updated on 05/06/2026 20:44:18 UTC
 <!--END_SECTION:waka-->
 ---
 
