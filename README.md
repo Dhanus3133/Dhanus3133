@@ -21,24 +21,41 @@ Last Updated: Saturday, June 6th, 2026, 7:25:34 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C606%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C607%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.38%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Python                   2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+TOML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Rust                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+
+🔥 Editors: 
+Claude Code              5 hrs 21 mins       ██████████████░░░░░░░░░░░   55.06 % 
+Neovim                   4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.94 % 
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   37 repos            ██████████░░░░░░░░░░░░░░░   38.95 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Python                   38 repos            ██████████░░░░░░░░░░░░░░░   39.58 % 
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 05/06/2026 20:44:18 UTC
+ Last Updated on 06/06/2026 20:10:10 UTC
 <!--END_SECTION:waka-->
 ---
 
