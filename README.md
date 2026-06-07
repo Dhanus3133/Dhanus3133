@@ -21,8 +21,6 @@ Last Updated: Sunday, June 7th, 2026, 7:35:51 PM
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C607%20hrs%2059%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.38%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -31,31 +29,31 @@ Last Updated: Sunday, June 7th, 2026, 7:35:51 PM
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.46 % 
-Python                   2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-TOML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Rust                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown                 3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.30 % 
+Python                   2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+TOML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 21 mins       ██████████████░░░░░░░░░░░   55.06 % 
-Neovim                   4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.94 % 
+Neovim                   4 hrs 32 mins       █████████████░░░░░░░░░░░░   52.29 % 
+Claude Code              4 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.71 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   38 repos            ██████████░░░░░░░░░░░░░░░   39.58 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   38 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 
 
 
 
- Last Updated on 06/06/2026 20:10:10 UTC
+ Last Updated on 07/06/2026 20:10:52 UTC
 <!--END_SECTION:waka-->
 ---
 
