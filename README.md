@@ -1,13 +1,13 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 7th, 2026, 7:35:51 PM
+Last Updated: Monday, June 8th, 2026, 10:12:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6463](https://github.com/opsmill/infrahub/issues/6463#issuecomment-4642811517) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
-2. 💪 Opened PR [#230](undefined) in [openwisp/django-loci](https://github.com/openwisp/django-loci)<br>
-3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
-4. 💬 Commented on [#469](https://github.com/openwisp/openwisp-notifications/pull/469#issuecomment-4605001598) in [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
-5. ⬆️ Pushed undefined commit(s) to [openwisp/openwisp-notifications](https://github.com/openwisp/openwisp-notifications)<br>
+1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+2. ⭐ Starred [getlago/lago](https://github.com/getlago/lago)<br>
+3. 💬 Commented on [#6463](https://github.com/opsmill/infrahub/issues/6463#issuecomment-4642811517) in [opsmill/infrahub](https://github.com/opsmill/infrahub)<br>
+4. 💪 Opened PR [#230](undefined) in [openwisp/django-loci](https://github.com/openwisp/django-loci)<br>
+5. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
