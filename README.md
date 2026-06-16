@@ -50,8 +50,3 @@ Shell                    3 repos             █░░░░░░░░░░�
 
  Last Updated on 15/06/2026 21:53:40 UTC
 <!--END_SECTION:waka-->
----
-
-### Overall Stats
-
-<img src="https://moe-counter.glitch.me/get/@Dhanus3133?theme=asoul" alt="Counter" />
