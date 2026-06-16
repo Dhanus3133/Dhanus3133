@@ -12,13 +12,6 @@ Last Updated: Tuesday, June 16th, 2026, 10:34:30 AM
 
 ---
 
-## Monkeytype Stats
-<a href="https://monkeytype.com/profile/dhanus">
-  <img src="https://raw.githubusercontent.com/Dhanus3133/Dhanus3133/monkeytype/monkeytype-lb.svg" alt="Monkeytype Profile" />
-</a>
-
----
-
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C618%20hrs%2048%20mins-blue?style=flat)
