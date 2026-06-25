@@ -1,12 +1,12 @@
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 25th, 2026, 9:35:02 AM
+Last Updated: Thursday, June 25th, 2026, 8:12:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
 2. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
 3. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
-4. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub-sdk-python](https://github.com/Dhanus3133/infrahub-sdk-python)<br>
+4. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub](https://github.com/Dhanus3133/infrahub)<br>
 5. ⬆️ Pushed undefined commit(s) to [Dhanus3133/infrahub-sdk-python](https://github.com/Dhanus3133/infrahub-sdk-python)<br>
 <!--RECENT_ACTIVITY:end-->
 
