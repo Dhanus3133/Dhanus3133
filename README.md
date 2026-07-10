@@ -1,7 +1,10 @@
 # ~$ whoami
 
-Software developer from India. GSoC '24 @OpenWISP · GCI '19 Runner-up @OSGeo.
-I work across many languages, mostly Python, Rust, and TypeScript.
+Software developer from India.
+
+GSoC '24 [@OpenWISP](https://github.com/openwisp) · GCI '19 Runner-up [@OSGeo](https://github.com/OSGeo)
+
+I work across many languages — mostly Python, Rust, and TypeScript.
 
 <br />
 
